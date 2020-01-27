@@ -1,5 +1,5 @@
 body{
-    background-color: purple;
+    background-color: orange;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif
 }
@@ -9,7 +9,10 @@ body{
 }
 
 #signup-form{
+    width: 250px;
+    margin: auto;
     background-color: white
+
 }
 
 .nav-links{
