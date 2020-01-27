@@ -1,0 +1,36 @@
+
+.aboutus{
+    background-color: blue;
+    color: white;
+}
+.register{
+    background-color: blue;
+    color: white;
+    
+}
+
+body{
+    background-color: lightblue;
+}
+.registrationform{
+    
+    margin-left: 30%;
+    border:2px solid grey;
+    background: white;
+    width: 400px;
+    height: 300px;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+.submitbutton{
+    background-color: blue;
+    color:  white;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button{
+    margin-top: 20px;
+}
